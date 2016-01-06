@@ -13,6 +13,7 @@
     方法：
     1、基于线上分支A，checkout新的分支C，并以分支C来rebaes分支B，rebase后，将心分支C提交，最终提出merge到分支A
     线上分支A: origin/A
+    
     2、基于本地分支A, 以此分支rebase 分支B，rebase结束后，可以直接提交到分支A
     本地分支A: A
     ---------------------
